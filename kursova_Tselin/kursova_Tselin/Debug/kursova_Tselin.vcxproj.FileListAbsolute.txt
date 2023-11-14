@@ -1,0 +1,6 @@
+C:\Users\Artur\Desktop\kursova_Tselin\kursova_Tselin\Debug\kursova_Tselin.vcxproj.AssemblyReference.cache
+C:\Users\Artur\Desktop\kursova_Tselin\kursova_Tselin\Debug\kursova_Tselin.avtor.resources
+C:\Users\Artur\Desktop\kursova_Tselin\kursova_Tselin\Debug\kursova_Tselin.centre.resources
+C:\Users\Artur\Desktop\kursova_Tselin\kursova_Tselin\Debug\kursova_Tselin.Tutylka.resources
+C:\Users\Artur\Desktop\kursova_Tselin\kursova_Tselin\Debug\kursova_Tselin.zadacha.resources
+C:\Users\Artur\Desktop\kursova_Tselin\kursova_Tselin\Debug\kursova_Tselin.vcxproj.GenerateResource.cache

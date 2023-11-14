@@ -1,0 +1,8 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (kursova_Schepetukk.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  lombard.cpp
+C:\Users\Artur\Desktop\kursova_Tselin\kursova_Tselin\centre.h(1223,14): warning C4101: now: неиспользованная локальная переменная
+  Tutylka.cpp
+C:\Users\Artur\Desktop\kursova_Tselin\kursova_Tselin\centre.h(1223,14): warning C4101: now: неиспользованная локальная переменная
+  Создание кода...
+  avtor.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  kursova_Tselin.vcxproj -> C:\Users\Artur\Desktop\kursova_Tselin\Debug\kursova_Tselin.exe
